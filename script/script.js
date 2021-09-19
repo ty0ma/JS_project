@@ -15,6 +15,8 @@ incr++;
 less--;
 // console.log(incr);
 // console.log(less);
+alert (incr);
+
 
 
 
